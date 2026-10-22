@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minortermite.github.io/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://minortermite.github.io/en/"/>
+    <loc>https://vyhod-iz-matricy.pages.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vyhod-iz-matricy.pages.dev/en/"/>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://minortermite.github.io/en/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://minortermite.github.io/"/>
+    <loc>https://vyhod-iz-matricy.pages.dev/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vyhod-iz-matricy.pages.dev/"/>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
   </url>
